@@ -23,7 +23,7 @@ fwf-rs = "0.2.0"
 itertools = "0.13.0"
 polars = { version = "0.43.1", features = ["dtype-decimal", "lazy", "polars-sql", "polars-io", "parquet", "json", "ipc"] }
 polars-sql = "0.43.1"
-polars-lazy = "0.43.1"
+polars-lazy = "0.44.2"
 rand = "0.8.5"
 ratatui = "0.28.1"
 
