@@ -1,6 +1,6 @@
 [package]
 name = "tabler"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Triet Trinh <contact@trinhminhtriet.com>"]
 license = "MIT"
 edition = "2021"
