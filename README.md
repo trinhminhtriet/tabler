@@ -12,7 +12,7 @@
 
 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files.
 
-![Screenshot](/images/screenshot.png "Screenshot")
+![Tabler Demo](images/demo.gif)
 
 ## ✨ Features
 
