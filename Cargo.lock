@@ -3658,6 +3658,7 @@ dependencies = [
  "fwf-rs",
  "itertools 0.14.0",
  "polars",
+ "polars-arrow 0.45.1",
  "polars-lazy 0.45.1",
  "polars-sql 0.45.1",
  "rand",
