@@ -18,7 +18,7 @@ path="src/main.rs"
 
 [dependencies]
 clap = { version = "4.5.35", features = ["derive"] }
-crossterm = "0.28.1"
+crossterm = "0.29.0"
 fwf-rs = "0.2.0"
 itertools = "0.14.0"
 polars = { version = "0.45.1", features = ["dtype-decimal", "lazy", "polars-sql", "polars-io", "parquet", "json", "ipc"] }
