@@ -30,7 +30,7 @@ ratatui = "0.29.0"
 
 [build-dependencies]
 clap = { version = "4.5.35", features = ["derive"] }
-clap_mangen = { version = "0.2.26"}
+clap_mangen = { version = "0.2.27"}
 clap_complete = { version = "4.5.52"}
 
 [package.metadata.deb]
